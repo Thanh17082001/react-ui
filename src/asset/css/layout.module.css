@@ -1,0 +1,23 @@
+.header{
+    width: 100%;
+    border: 1px solid #ccc;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+}
+.item{
+    padding: 0 30px;
+}
+.item a{
+    display: block;
+    color: var(--primary);
+    color: #111;
+    padding: 10px;
+    border: 1px solid #CCC;
+    text-decoration: none;
+    border-radius: 10px;
+}
