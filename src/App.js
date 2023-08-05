@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import { publicRoutes } from "./routes";
-import Header from "./components/layouts/header";
+import Header from "./components/layouts/Header/header";
 import './components/GlobalStyle.css'
 function App() {
   return (
